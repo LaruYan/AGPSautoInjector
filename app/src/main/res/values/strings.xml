@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AGPS Auto Injector</string>
+    <string name="hello_world">for Qualcomm Devices only!</string>
+    <string name="description">This application downloads A-GPS xtra and ntp data automatically when GPS in use. especially for GPS broken custom ROMs</string>
+    <string name="settings">Settings</string>
+    <string name="download_if">Download if older than</string>
+    <string name="tools">AGPS data Tools</string>
+    <string name="clear_now">Clear now</string>
+    <string name="inject_now">Inject now</string>
+    <string name="error_no_networks">No Networks are available.\nAGPS data cannot be refreshed.</string>
+    <string name="agps_inject_request_made">AGPS data will be injected soon.</string>
+    <string name="agps_clear_request_made">AGPS data cleared.</string>
+    <string name="error_gps_off">GPS is OFF.\nTurn on GPS to inject or clear AGPS data.</string>
+    <string name="hide_from_launcher">Hide Icon from launcher</string>
+    <string name="desc_hide_from_launcher">You can hide this app\'s icon from launcher. Mark below then will be applied on next boot. To revert this, uninstall and re-install app.</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AGPS 정보 자동갱신</string>
+    <string name="hello_world">Qualcomm폰에만 작동합니다!</string>
+    <string name="description">본 앱은 A-GPS 도우미 데이터와 NTP 표준 시간을 GPS를 사용할 때 자동으로 내려받습니다. A-GPS정보 갱신이 안되는 몇몇 커스텀롬에 효과적입니다.</string>
+    <string name="settings">설정</string>
+    <string name="download_if">아래 시간보다 오래되면 내려받기</string>
+    <string name="tools">AGPS 도구</string>
+    <string name="clear_now">AGPS정보 비우기</string>
+    <string name="inject_now">AGPS정보 갱신</string>
+    <string name="error_no_networks">인터넷에 연결되어있지 않습니다.\nAGPS 정보를 갱신하지 못했습니다.</string>
+    <string name="agps_inject_request_made">AGPS 정보가 곧 갱신됩니다.</string>
+    <string name="agps_clear_request_made">AGPS 정보가 비워집니다.</string>
+    <string name="error_gps_off">GPS가 꺼져있습니다.\nAGPS 정보를 갱신하거나 비울 수 없습니다.</string>
+    <string name="hide_from_launcher">아이콘 숨기기</string>
+    <string name="desc_hide_from_launcher">앱 아이콘을 숨기려면 아래의 체크박스에 표시해주세요. 다음에 폰이 시작되면 아이콘은 사라져있을 것입니다. 아이콘을 다시 보고 싶으시다면 앱을 제거하신 다음 다시 설치해주세요.</string>
+
+</resources>
