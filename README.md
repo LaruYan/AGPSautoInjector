@@ -18,6 +18,17 @@ may not work on many Galaxy Devices including Galaxy Nexus (OMAP devices)
 This application downloads A-GPS Xtra data and NTP data to fix GPS faster automatically when GPS in use.  
 especially for some custom ROMs, GPS is broken due to data not downloaded automatically.
 
+### Release Note
+> 2013/11/25 1.03  
+> Minor improvements  
+> Hide App icon from launcher (optional)  
+> 
+> 2013/11/20 1.01  
+> App size decreased  
+> 
+> 2013/11/20 1.00  
+> first release.
+
 
 ## 한국어
 ![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/readme/doc/ko/main_img.png "메인 화면")
@@ -32,3 +43,14 @@ especially for some custom ROMs, GPS is broken due to data not downloaded automa
 
 본 앱은 GPS가 사용중일 때 A-GPS 구동에 필요한 도우미 정보와 표준시간 정보를 내려받습니다.  
 A-GPS정보를 받지 못해 GPS가 작동하지 않는 커스텀롬 사용자를 위해 만들어졌습니다.
+
+### Release Note
+> 2013/11/25 1.03  
+> 사용성 일부 개선  
+> 앱 아이콘을 앱 목록에서 숨길 수 있습니다. (선택사항)  
+> 
+> 2013/11/20 1.01  
+> 앱 용량을 줄였습니다.  
+> 
+> 2013/11/20 1.00  
+> 첫 배포  
