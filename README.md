@@ -1,5 +1,6 @@
 # AGPSautoInjector
 (Old Project at 2013, Compile not guaranteed) 스냅드래곤 계열 프로세서의 명령어 실행을 통해 AGPS 정보를 강제로 새로고침하는 프로그램. Refreshes Snapdragon Devices' AGPS information by simple command.
+![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/readme/doc/icon_googlePlay.png "Launcher Icon")
 
 ## English
 ![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/readme/doc/en/main_img.png "Main screen")
