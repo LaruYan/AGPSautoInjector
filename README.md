@@ -2,11 +2,11 @@
 (Old Project at 2013, Compile not guaranteed) 스냅드래곤 계열 프로세서의 명령어 실행을 통해 AGPS 정보를 강제로 새로고침하는 프로그램. Refreshes Snapdragon Devices' AGPS information by simple command.  
 https://play.google.com/store/apps/details?id=kr.LaruYan.agpsautoinjector
 
-![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/readme/doc/icon_googlePlay.png "Launcher Icon")
+![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/master/doc/icon_googlePlay.png "Launcher Icon")
 
 ## English
-![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/readme/doc/en/main_img.png "Main screen")
-![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/readme/doc/en/gps_injecting_msg.png "Message shown while using GPS app")
+![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/master/doc/en/main_img.png "Main screen")
+![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/master/doc/en/gps_injecting_msg.png "Message shown while using GPS app")
 
 **This app works for Qualcomm Devices only!**
 
@@ -31,8 +31,8 @@ especially for some custom ROMs, GPS is broken due to data not downloaded automa
 
 
 ## 한국어
-![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/readme/doc/ko/main_img.png "메인 화면")
-![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/readme/doc/ko/gps_injecting_msg.png "GPS 앱에서 표시되는 메시지")
+![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/master/doc/ko/main_img.png "메인 화면")
+![alt text](https://raw.githubusercontent.com/LaruYan/AGPSautoInjector/master/doc/ko/gps_injecting_msg.png "GPS 앱에서 표시되는 메시지")
 
 **본 앱은 Qualcomm 칩셋의 장치에서만 사용하실 수 있습니다.**
 
